@@ -1,7 +1,7 @@
   
 
 
-## <a href="https://pensive-golick-762a4c.netlify.app" target="_blank">LIVE DEMO</a>
+## <a href="https://quirky-mclean-38252d.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
